@@ -1,6 +1,6 @@
 # Hi, I'm Matthieu 👋
 
-Soft on the outside, Pythonic on the inside — a true coding Teddy, freelancing out of Grenoble, France 🐻🇫🇷
+Soft on the outside, Pythonic on the inside — a true coding Teddy, living in Grenoble, France 🐻🇫🇷
 
 I build and operate backend systems: APIs that don't fall over, pipelines that don't lie, and infra that doesn't page you at 3am. Currently open to select freelance projects — if that sounds like a fit, let's talk.
 
